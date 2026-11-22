@@ -1,0 +1,8 @@
+# Roboflow export(YOLOv8 형식)의 data.yaml과 동일한 클래스 순서
+# 이미지는 저장소에 포함하지 않는다. data/README.md 참고
+path: ../datasets/machine-learning-1
+train: train/images
+val: valid/images
+test: test/images
+nc: 3
+names: ["razor", "toilet_paper", "wallet"]

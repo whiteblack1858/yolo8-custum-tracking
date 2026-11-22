@@ -1,0 +1,16 @@
+# 학습 산출물 중 올리지 않을 것
+runs/
+*.cache
+last.pt
+# 데이터셋 원본(Roboflow에서 내려받는다)
+datasets/
+data/train/
+data/valid/
+data/test/
+# 비밀값
+.env
+*.key
+# 기타
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store

@@ -1,0 +1,4 @@
+ultralytics==8.4.216
+roboflow
+opencv-python
+lap>=0.5.12
